@@ -18,7 +18,7 @@ Greetin My Friends, I am Fajar Rachmat Hermansyah 👋<br><br>🔭 For now conti
 
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 
