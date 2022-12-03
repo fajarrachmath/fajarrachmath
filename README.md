@@ -1,5 +1,5 @@
 
-السلام عليكم ورحمة الله وبركاته
+<center>السلام عليكم ورحمة الله وبركاته</center>
 # 💫 About Me:
 Greetin My Friends, I am Fajar Rachmat Hermansyah 👋<br><br>🔭 For now continue to develop applications about education and training (Web Based), My currently Job 🖥️<br>📖 I'm learning Laravel Framework, Flutter and EXT JS, to support my programming 👍<br>✨ Interested in learning Mobile Application development and Big Data ✨
 
