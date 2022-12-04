@@ -1,13 +1,3 @@
-<script rel="stylesheet">
- .badge {
-  background-color: red;
-  color: white;
-  padding: 4px 8px;
-  text-align: center;
-  border-radius: 5px;
-}
-</script>
-
 السلام عليكم ورحمة الله وبركاته
 
 # 💫 About Me:
