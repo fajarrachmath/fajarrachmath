@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Greetin My Friends, I am Fajar Rachmat Hermansyah 👋<br><br>🔭 For now continue to develop applications about education and training (Web Based), My currently Job 🖥️<br>📖 I'm learning Laravel Framework, Flutter and EXT JS, to support my programming 👍<br>✨ Interested in learning Mobile Application development and Big Data ✨
+Greetings My Friends, I am Fajar Rachmat Hermansyah 👋<br><br>🔭, For now, continue to develop applications for education and training (Web Based), My current Job 🖥️<br>📖 I'm currently learning Laravel Framework, Flutter(Dart) and EXT JS, to support my programming 👍<br>✨ Interested in learning Mobile Application development and Big Data ✨
 
 # 🌐 Socials:
 
